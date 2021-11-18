@@ -1,7 +1,7 @@
-package dtlivehero.brasa.data;
+package com.dtlivehero.brasa.data;
 
-import dtlivehero.brasa.Brasa;
-import dtlivehero.brasa.common.ModBlocks;
+import com.dtlivehero.brasa.common.ModBlocks;
+import com.dtlivehero.brasa.Brasa;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.tags.BlockTagsProvider;
 import net.minecraft.tags.BlockTags;

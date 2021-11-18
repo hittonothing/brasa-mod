@@ -1,9 +1,9 @@
-package dtlivehero.brasa.data;
+package com.dtlivehero.brasa.data;
 
-import dtlivehero.brasa.Brasa;
-import dtlivehero.brasa.data.client.ModBlockModelProvider;
-import dtlivehero.brasa.data.client.ModItemModelProvider;
-import dtlivehero.brasa.data.client.ModLang;
+import com.dtlivehero.brasa.Brasa;
+import com.dtlivehero.brasa.data.client.ModBlockModelProvider;
+import com.dtlivehero.brasa.data.client.ModItemModelProvider;
+import com.dtlivehero.brasa.data.client.ModLang;
 import net.minecraft.data.DataGenerator;
 import net.minecraftforge.common.data.ExistingFileHelper;
 import net.minecraftforge.eventbus.api.SubscribeEvent;

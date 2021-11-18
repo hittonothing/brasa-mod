@@ -1,7 +1,7 @@
-package dtlivehero.brasa.data.client;
+package com.dtlivehero.brasa.data.client;
 
-import dtlivehero.brasa.Brasa;
-import dtlivehero.brasa.common.ModItems;
+import com.dtlivehero.brasa.common.ModItems;
+import com.dtlivehero.brasa.Brasa;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.world.level.ItemLike;
 import net.minecraftforge.client.model.generators.ItemModelProvider;

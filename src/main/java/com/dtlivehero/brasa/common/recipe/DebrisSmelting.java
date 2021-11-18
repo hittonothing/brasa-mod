@@ -1,7 +1,7 @@
-package dtlivehero.brasa.common.recipe;
+package com.dtlivehero.brasa.common.recipe;
 
+import com.dtlivehero.brasa.common.ModRecipes;
 import com.google.gson.JsonObject;
-import dtlivehero.brasa.common.ModRecipes;
 import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.util.GsonHelper;

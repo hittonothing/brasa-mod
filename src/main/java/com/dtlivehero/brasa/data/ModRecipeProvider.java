@@ -1,8 +1,8 @@
-package dtlivehero.brasa.data;
+package com.dtlivehero.brasa.data;
 
-import dtlivehero.brasa.common.ModBlocks;
-import dtlivehero.brasa.common.ModItems;
-import dtlivehero.brasa.data.builder.BrasaRecipeBuilder;
+import com.dtlivehero.brasa.common.ModBlocks;
+import com.dtlivehero.brasa.common.ModItems;
+import com.dtlivehero.brasa.data.builder.BrasaRecipeBuilder;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.recipes.FinishedRecipe;
 import net.minecraft.data.recipes.RecipeProvider;

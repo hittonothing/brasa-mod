@@ -1,4 +1,4 @@
-package dtlivehero.brasa.common.util;
+package com.dtlivehero.brasa.common.util;
 
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.world.Container;

@@ -1,9 +1,9 @@
-package dtlivehero.brasa;
+package com.dtlivehero.brasa;
 
-import dtlivehero.brasa.common.ModBlocks;
-import dtlivehero.brasa.common.ModCommon;
-import dtlivehero.brasa.common.ModItems;
-import dtlivehero.brasa.common.ModRecipes;
+import com.dtlivehero.brasa.common.ModBlocks;
+import com.dtlivehero.brasa.common.ModCommon;
+import com.dtlivehero.brasa.common.ModItems;
+import com.dtlivehero.brasa.common.ModRecipes;
 import net.minecraft.world.inventory.MenuType;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;

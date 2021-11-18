@@ -1,10 +1,10 @@
-package dtlivehero.brasa.common.block.brasafurnace;
+package com.dtlivehero.brasa.common.block.brasafurnace;
 
-import dtlivehero.brasa.common.ModCommon;
-import dtlivehero.brasa.common.ModRecipes;
-import dtlivehero.brasa.common.recipe.DebrisSmelting;
-import dtlivehero.brasa.common.util.MachineData;
-import dtlivehero.brasa.common.util.MachineSlot;
+import com.dtlivehero.brasa.common.ModCommon;
+import com.dtlivehero.brasa.common.ModRecipes;
+import com.dtlivehero.brasa.common.recipe.DebrisSmelting;
+import com.dtlivehero.brasa.common.util.MachineData;
+import com.dtlivehero.brasa.common.util.MachineSlot;
 import net.minecraft.core.BlockPos;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.Connection;

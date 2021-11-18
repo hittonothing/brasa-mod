@@ -1,9 +1,9 @@
-package dtlivehero.brasa.data;
+package com.dtlivehero.brasa.data;
 
+import com.dtlivehero.brasa.common.ModBlocks;
 import com.google.common.collect.ImmutableList;
 import com.mojang.datafixers.util.Pair;
-import dtlivehero.brasa.BrasaRegister;
-import dtlivehero.brasa.common.ModBlocks;
+import com.dtlivehero.brasa.BrasaRegister;
 import net.minecraft.data.DataGenerator;
 import net.minecraft.data.loot.BlockLoot;
 import net.minecraft.data.loot.LootTableProvider;

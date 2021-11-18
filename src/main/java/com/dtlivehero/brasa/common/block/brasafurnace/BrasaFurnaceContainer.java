@@ -1,8 +1,8 @@
-package dtlivehero.brasa.common.block.brasafurnace;
+package com.dtlivehero.brasa.common.block.brasafurnace;
 
-import dtlivehero.brasa.common.ModCommon;
-import dtlivehero.brasa.common.util.MachineData;
-import dtlivehero.brasa.common.util.MachineSlot;
+import com.dtlivehero.brasa.common.ModCommon;
+import com.dtlivehero.brasa.common.util.MachineData;
+import com.dtlivehero.brasa.common.util.MachineSlot;
 import net.minecraft.network.FriendlyByteBuf;
 import net.minecraft.util.Mth;
 import net.minecraft.world.Container;

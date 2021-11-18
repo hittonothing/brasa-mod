@@ -1,7 +1,7 @@
-package dtlivehero.brasa.data.client;
+package com.dtlivehero.brasa.data.client;
 
-import dtlivehero.brasa.Brasa;
-import dtlivehero.brasa.common.ModBlocks;
+import com.dtlivehero.brasa.common.ModBlocks;
+import com.dtlivehero.brasa.Brasa;
 import net.minecraft.data.DataGenerator;
 import net.minecraftforge.client.model.generators.BlockStateProvider;
 import net.minecraftforge.client.model.generators.ModelFile;

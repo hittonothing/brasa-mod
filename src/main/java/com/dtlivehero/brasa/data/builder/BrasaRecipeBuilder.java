@@ -1,10 +1,10 @@
-package dtlivehero.brasa.data.builder;
+package com.dtlivehero.brasa.data.builder;
 
+import com.dtlivehero.brasa.common.ModRecipes;
 import com.google.common.collect.Lists;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
-import dtlivehero.brasa.Brasa;
-import dtlivehero.brasa.common.ModRecipes;
+import com.dtlivehero.brasa.Brasa;
 import net.minecraft.data.recipes.FinishedRecipe;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;

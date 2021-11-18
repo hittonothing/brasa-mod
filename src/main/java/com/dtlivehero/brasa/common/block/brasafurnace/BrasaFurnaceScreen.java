@@ -1,8 +1,8 @@
-package dtlivehero.brasa.common.block.brasafurnace;
+package com.dtlivehero.brasa.common.block.brasafurnace;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 import com.mojang.blaze3d.vertex.PoseStack;
-import dtlivehero.brasa.Brasa;
+import com.dtlivehero.brasa.Brasa;
 import net.minecraft.client.gui.screens.inventory.AbstractContainerScreen;
 import net.minecraft.client.renderer.GameRenderer;
 import net.minecraft.network.chat.Component;

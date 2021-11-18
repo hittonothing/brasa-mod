@@ -1,6 +1,6 @@
 @ParametersAreNonnullByDefault
 @MethodsReturnNonnullByDefault
-package dtlivehero.brasa.common.util;
+package com.dtlivehero.brasa.common.util;
 
 import net.minecraft.MethodsReturnNonnullByDefault;
 

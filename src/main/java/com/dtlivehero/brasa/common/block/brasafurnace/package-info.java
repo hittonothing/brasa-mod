@@ -1,6 +1,6 @@
 @ParametersAreNonnullByDefault
 @MethodsReturnNonnullByDefault
-package dtlivehero.brasa.common.block.brasafurnace;
+package com.dtlivehero.brasa.common.block.brasafurnace;
 
 import net.minecraft.MethodsReturnNonnullByDefault;
 

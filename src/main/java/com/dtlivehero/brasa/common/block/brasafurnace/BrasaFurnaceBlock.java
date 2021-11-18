@@ -1,6 +1,6 @@
-package dtlivehero.brasa.common.block.brasafurnace;
+package com.dtlivehero.brasa.common.block.brasafurnace;
 
-import dtlivehero.brasa.common.ModCommon;
+import com.dtlivehero.brasa.common.ModCommon;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.server.level.ServerPlayer;

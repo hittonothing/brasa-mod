@@ -1,6 +1,6 @@
-package dtlivehero.brasa.common;
+package com.dtlivehero.brasa.common;
 
-import dtlivehero.brasa.BrasaRegister;
+import com.dtlivehero.brasa.BrasaRegister;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.fmllegacy.RegistryObject;
 

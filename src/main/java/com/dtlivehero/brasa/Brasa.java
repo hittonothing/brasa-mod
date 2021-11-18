@@ -1,7 +1,7 @@
-package dtlivehero.brasa;
+package com.dtlivehero.brasa;
 
-import dtlivehero.brasa.common.ModCommon;
-import dtlivehero.brasa.common.block.brasafurnace.BrasaFurnaceScreen;
+import com.dtlivehero.brasa.common.ModCommon;
+import com.dtlivehero.brasa.common.block.brasafurnace.BrasaFurnaceScreen;
 import net.minecraft.client.gui.screens.MenuScreens;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
@@ -26,7 +26,7 @@ public class Brasa {
     }
 
     private void setupClient(FMLClientSetupEvent event) {
-        MenuScreens.register(ModCommon.BRASA_FURNACE_CONTAINER.get(), BrasaFurnaceScreen::new);
         LOGGER.info("BRASA CLIENT SETUP");
+        MenuScreens.register(ModCommon.BRASA_FURNACE_CONTAINER.get(), BrasaFurnaceScreen::new);
     }
 }

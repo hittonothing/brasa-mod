@@ -1,8 +1,8 @@
-package dtlivehero.brasa.common;
+package com.dtlivehero.brasa.common;
 
-import dtlivehero.brasa.BrasaRegister;
-import dtlivehero.brasa.common.block.brasafurnace.BrasaFurnaceBE;
-import dtlivehero.brasa.common.block.brasafurnace.BrasaFurnaceContainer;
+import com.dtlivehero.brasa.BrasaRegister;
+import com.dtlivehero.brasa.common.block.brasafurnace.BrasaFurnaceBE;
+import com.dtlivehero.brasa.common.block.brasafurnace.BrasaFurnaceContainer;
 import net.minecraft.world.inventory.AbstractContainerMenu;
 import net.minecraft.world.inventory.MenuType;
 import net.minecraft.world.level.block.Block;

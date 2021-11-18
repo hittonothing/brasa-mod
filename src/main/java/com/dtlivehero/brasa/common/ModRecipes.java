@@ -1,7 +1,7 @@
-package dtlivehero.brasa.common;
+package com.dtlivehero.brasa.common;
 
-import dtlivehero.brasa.BrasaRegister;
-import dtlivehero.brasa.common.recipe.DebrisSmelting;
+import com.dtlivehero.brasa.BrasaRegister;
+import com.dtlivehero.brasa.common.recipe.DebrisSmelting;
 import net.minecraft.world.item.crafting.RecipeSerializer;
 import net.minecraft.world.item.crafting.RecipeType;
 import net.minecraftforge.fmllegacy.RegistryObject;
