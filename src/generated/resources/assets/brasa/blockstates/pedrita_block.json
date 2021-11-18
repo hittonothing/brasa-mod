@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "brasa:block/pedrita_block"
+    }
+  }
+}

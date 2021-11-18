@@ -1,0 +1,9 @@
+{
+  "block.brasa.brasa_furnace_block": "Brasa Furnace",
+  "block.brasa.pedrita_block": "Pedrita Block",
+  "container.brasa.brasa_furnace_container": "Brasa Furnace",
+  "item.brasa.ferrilume_ingot": "Ferrilume Ingot",
+  "item.brasa.ferrilume_nugget": "Ferrilume Nugget",
+  "item.brasa.pedrita_debris": "Pedrita Debris",
+  "itemGroup.brasa_stuff": "Brasa Mod Tab"
+}

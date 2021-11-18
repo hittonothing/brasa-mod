@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "brasa:block/brasa_furnace_top",
+    "front": "brasa:block/brasa_furnace_front",
+    "side": "brasa:block/brasa_furnace_side",
+    "bottom": "brasa:block/brasa_furnace_bottom"
+  }
+}

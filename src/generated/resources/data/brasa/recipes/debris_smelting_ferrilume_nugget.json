@@ -1,0 +1,11 @@
+{
+  "type": "brasa:debris_smelting",
+  "ingredient": [
+    {
+      "item": "brasa:pedrita_debris"
+    }
+  ],
+  "result": "brasa:ferrilume_nugget",
+  "experience": 2.0,
+  "cookingTime": 400
+}

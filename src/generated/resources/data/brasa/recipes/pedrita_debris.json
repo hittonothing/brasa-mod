@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "brasa:pedrita_block"
+    }
+  ],
+  "result": {
+    "item": "brasa:pedrita_debris",
+    "count": 9
+  }
+}
