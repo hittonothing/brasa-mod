@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "brasa:pedrita_block"
+    "brasa:pedrita_block",
+    "brasa:fuel_can",
+    "brasa:fusion_chamber_block"
   ]
 }

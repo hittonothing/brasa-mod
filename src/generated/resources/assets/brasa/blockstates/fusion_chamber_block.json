@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "brasa:block/fusion_chamber_block"
+    },
+    "facing=south": {
+      "model": "brasa:block/fusion_chamber_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "brasa:block/fusion_chamber_block",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "brasa:block/fusion_chamber_block",
+      "y": 90
+    }
+  }
+}

@@ -1,6 +1,6 @@
 @ParametersAreNonnullByDefault
 @MethodsReturnNonnullByDefault
-package com.dtlivehero.brasa.common.block.brasafurnace;
+package com.dtlivehero.brasa.common.block.fusion_chamber;
 
 import net.minecraft.MethodsReturnNonnullByDefault;
 

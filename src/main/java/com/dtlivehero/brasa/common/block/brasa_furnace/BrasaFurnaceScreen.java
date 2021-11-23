@@ -1,4 +1,4 @@
-package com.dtlivehero.brasa.common.block.brasafurnace;
+package com.dtlivehero.brasa.common.block.brasa_furnace;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 import com.mojang.blaze3d.vertex.PoseStack;

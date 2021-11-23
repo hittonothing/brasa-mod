@@ -17,6 +17,7 @@ public class ModItemModelProvider extends ItemModelProvider {
     protected void registerModels() {
         withExistingParent("pedrita_block", modLoc("block/pedrita_block"));
         withExistingParent("brasa_furnace_block", modLoc("block/brasa_furnace"));
+        withExistingParent("fusion_chamber_block", modLoc("block/fusion_chamber_block"));
 
         ModelFile itemGenerated = getExistingFile(mcLoc("item/generated"));
 

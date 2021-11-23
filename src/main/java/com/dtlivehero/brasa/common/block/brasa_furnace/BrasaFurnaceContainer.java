@@ -1,4 +1,4 @@
-package com.dtlivehero.brasa.common.block.brasafurnace;
+package com.dtlivehero.brasa.common.block.brasa_furnace;
 
 import com.dtlivehero.brasa.common.ModCommon;
 import com.dtlivehero.brasa.common.util.MachineData;

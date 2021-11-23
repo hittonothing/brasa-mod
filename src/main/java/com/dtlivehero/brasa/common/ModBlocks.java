@@ -1,7 +1,9 @@
 package com.dtlivehero.brasa.common;
 
 import com.dtlivehero.brasa.BrasaRegister;
-import com.dtlivehero.brasa.common.block.brasafurnace.BrasaFurnaceBlock;
+import com.dtlivehero.brasa.common.block.brasa_furnace.BrasaFurnaceBlock;
+import com.dtlivehero.brasa.common.block.fuel_can.FuelCanBlock;
+import com.dtlivehero.brasa.common.block.fusion_chamber.FusionChamberBlock;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -19,7 +21,9 @@ public class ModBlocks {
             .requiresCorrectToolForDrops()
     ));
 
-    public static final RegistryObject<BrasaFurnaceBlock> BRASA_FURNACE_BLOCK = register("brasa_furnace_block", () -> new BrasaFurnaceBlock(BlockBehaviour.Properties.of(Material.METAL)));
+    public static final RegistryObject<BrasaFurnaceBlock> BRASA_FURNACE_BLOCK = register("brasa_furnace_block", BrasaFurnaceBlock::new);
+    public static final RegistryObject<FusionChamberBlock> FUSION_CHAMBER_BLOCK = register("fusion_chamber_block", FusionChamberBlock::new);
+    public static final RegistryObject<FuelCanBlock> FUEL_CAN_BLOCK = register("fuel_can", FuelCanBlock::new);
 
     public static void register() {}
 

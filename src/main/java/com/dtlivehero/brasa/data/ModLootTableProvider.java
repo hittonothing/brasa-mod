@@ -34,8 +34,8 @@ public class ModLootTableProvider extends LootTableProvider {
     }
 
     @Override
-    protected void validate(Map<ResourceLocation, LootTable> map, ValidationContext validationtracker) {
-        map.forEach(((resourceLocation, lootTable) -> LootTables.validate(validationtracker, resourceLocation, lootTable)));
+    protected void validate(Map<ResourceLocation, LootTable> map, ValidationContext validationTracker) {
+        map.forEach((resourceLocation, lootTable) -> LootTables.validate(validationTracker, resourceLocation, lootTable));
     }
 
     public static class ModBlockLootTables extends BlockLoot {
@@ -44,6 +44,8 @@ public class ModLootTableProvider extends LootTableProvider {
         protected void addTables() {
             dropSelf(ModBlocks.PEDRITA_BLOCK.get());
             dropSelf(ModBlocks.BRASA_FURNACE_BLOCK.get());
+            dropSelf(ModBlocks.FUEL_CAN_BLOCK.get());
+            dropSelf(ModBlocks.FUSION_CHAMBER_BLOCK.get());
         }
 
         @Override

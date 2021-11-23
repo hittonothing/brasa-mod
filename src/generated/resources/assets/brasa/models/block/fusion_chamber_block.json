@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "brasa:block/fusion_chamber_block_top",
+    "front": "brasa:block/fusion_chamber_block_front",
+    "side": "brasa:block/fusion_chamber_block_side",
+    "bottom": "brasa:block/fusion_chamber_block_bottom"
+  }
+}

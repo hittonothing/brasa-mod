@@ -13,11 +13,16 @@ public class ModLang extends LanguageProvider {
 
     @Override
     protected void addTranslations() {
+        //Blocks
         add(ModBlocks.PEDRITA_BLOCK.get(), "Pedrita Block");
         add(ModBlocks.BRASA_FURNACE_BLOCK.get(), "Brasa Furnace");
+        add(ModBlocks.FUEL_CAN_BLOCK.get(), "Fuel Can");
+        add(ModBlocks.FUSION_CHAMBER_BLOCK.get(), "Fusion Chamber");
+        //Items
         add(ModItems.PEDRITA_DEBRIS.get(), "Pedrita Debris");
         add(ModItems.FERRILUME_INGOT.get(), "Ferrilume Ingot");
         add(ModItems.FERRILUME_NUGGET.get(), "Ferrilume Nugget");
+        //Others
         add("container.brasa.brasa_furnace_container", "Brasa Furnace");
         add("itemGroup.brasa_stuff", "Brasa Mod Tab");
     }

@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "brasa:block/fuel_can",
+		"particle": "brasa:block/fuel_can"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [11, 16, 11],
+			"faces": {
+				"north": {"uv": [3, 3, 6, 11], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 11], "texture": "#0"},
+				"south": {"uv": [9, 3, 12, 11], "texture": "#0"},
+				"west": {"uv": [6, 3, 9, 11], "texture": "#0"},
+				"up": {"uv": [6, 3, 3, 0], "texture": "#0"},
+				"down": {"uv": [9, 0, 6, 3], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [30, 0, 0],
+			"translation": [0, 2, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [30, 0, 0],
+			"translation": [0, 2, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [25, -25, 0],
+			"scale": [0.79, 0.79, 0.79]
+		},
+		"fixed": {
+			"translation": [0, 0, -3]
+		}
+	}
+}

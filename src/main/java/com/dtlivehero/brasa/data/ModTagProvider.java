@@ -23,8 +23,12 @@ public class ModTagProvider extends BlockTagsProvider {
     @Override
     protected void addTags() {
         tag(BlockTags.NEEDS_IRON_TOOL)
-                .add(ModBlocks.PEDRITA_BLOCK.get());
+                .add(ModBlocks.PEDRITA_BLOCK.get())
+                .add(ModBlocks.FUEL_CAN_BLOCK.get())
+                .add(ModBlocks.FUSION_CHAMBER_BLOCK.get());
         tag(BlockTags.MINEABLE_WITH_PICKAXE)
-                .add(ModBlocks.PEDRITA_BLOCK.get());
+                .add(ModBlocks.PEDRITA_BLOCK.get())
+                .add(ModBlocks.FUEL_CAN_BLOCK.get())
+                .add(ModBlocks.FUSION_CHAMBER_BLOCK.get());
     }
 }

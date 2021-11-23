@@ -1,7 +1,7 @@
 package com.dtlivehero.brasa;
 
 import com.dtlivehero.brasa.common.ModCommon;
-import com.dtlivehero.brasa.common.block.brasafurnace.BrasaFurnaceScreen;
+import com.dtlivehero.brasa.common.block.brasa_furnace.BrasaFurnaceScreen;
 import net.minecraft.client.gui.screens.MenuScreens;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;

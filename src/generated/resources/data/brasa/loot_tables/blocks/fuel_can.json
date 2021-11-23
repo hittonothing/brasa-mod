@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "brasa:brasa_furnace_block"
+          "name": "brasa:fuel_can"
         }
       ],
       "conditions": [
